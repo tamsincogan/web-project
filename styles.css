@@ -1,0 +1,15 @@
+{
+font-family: Helvetica, sans-sans-serif;
+text-align:center;
+width: 50%
+margin: 0 auto;
+margin: 100px auto;
+padding: 40x;
+border:1px solid #ccc;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+  text-align:justify;
+}
